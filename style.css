@@ -71,7 +71,7 @@ body{
     box-shadow: 0 15px 30px rgba(0,0,0,0.3);
     width: 100%;
     position: relative;
-    /*visibility: hidden;*/
+    *visibility: hidden;
 }
 .task{
     background-color: #ffffff;
